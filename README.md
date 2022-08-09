@@ -1,5 +1,5 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KolamProduction&show_icons=true&locale=en&layout=compact&theme=radical" alt="Garuda Projects" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KolamProduction&show_icons=true&locale=en&theme=tokyonight" alt="Nikhil" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsalmn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Garuda Projects" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsalmn&show_icons=true&locale=en&theme=tokyonight" alt="Nikhil" width="410" /></p>
 <h2 align="center">☕️ Tea, Coffee, Dinner?</h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/rsalman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
